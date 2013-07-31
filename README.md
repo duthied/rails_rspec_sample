@@ -1,0 +1,1 @@
+sample rails app w/ rspec for cirleci testing
